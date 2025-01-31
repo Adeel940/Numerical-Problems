@@ -1,4 +1,3 @@
-#Question 2(b)
 
 import numpy as np
 

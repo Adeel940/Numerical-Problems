@@ -48,3 +48,4 @@ for i, g in enumerate(g_functions):
     final_solution = p_values[-1]
     roots.append(final_solution)
     print(f"Final solution for {g_labels[i]}: x = {final_solution:.5f}\n")
+    

@@ -181,3 +181,4 @@ for i, g in enumerate(g_functions):
 
 for i, root in enumerate(roots):
     print(f"Final solution for {g_labels[i]}: x = {root:.5f}")
+    
